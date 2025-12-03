@@ -1,5 +1,5 @@
 {
   "version": "1.0.3",
   "installerUrl": "https://github.com/quoBoost/QuO-Releases/releases/download/v1.0.3/QuO.App.Setup.exe",
-  "changelog": "Se implementó el sistema de actualización automática y mejoras iniciales." 
+  "changelog": "Fix some BUGS and errores in code / tweaks. aprox 140mb" 
 }
