@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "installerUrl": "https://github.com/quoBoost/QuO-Releases/releases/latest/download/QuO_Setup.exe",
-  "changelog": "Versión inicial de la aplicación."
+  "installerUrl": "https://github.com/quoBoost/QuO-Releases/releases/download/v1.0.0/QuO.App.Setup.exe",
+  "changelog": "Versión inicial"
 }
